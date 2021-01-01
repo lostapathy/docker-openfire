@@ -1,4 +1,4 @@
-# gizmotronic/openfire:4.6.0
+# lostapathy/openfire:4.6.0
 
 - [Introduction](#introduction)
   - [Contributing](#contributing)
